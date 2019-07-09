@@ -1,0 +1,7 @@
+2019-07-09 17:47:59,203s app.py  :46 INFO     DNS Fake: test.com
+2019-07-09 17:47:59,203s app.py  :24 INFO     test.com ===> 202.112.111.111
+2019-07-09 17:48:06,197s app.py  :48 INFO      Send real results: baidu.com
+2019-07-09 17:48:19,082s app.py  :43 INFO     DNS rebind: rebind.com
+2019-07-09 17:48:19,082s app.py  :24 INFO     rebind.com ===> 222.185.163.135
+2019-07-09 17:48:21,393s app.py  :43 INFO     DNS rebind: rebind.com
+2019-07-09 17:48:21,393s app.py  :24 INFO     rebind.com ===> 127.0.0.1
